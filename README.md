@@ -28,6 +28,9 @@
 <h3>Current Status:</h3>
 <p align="center">
   <img alt="GitHub Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sifat-Ikram&theme=default">
+</p>
+<h3>Commits:</h3>
+<p align="center">
   <img alt="GitHub Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sifat-Ikram&theme=default&utcOffset=8">
 </p>
 
